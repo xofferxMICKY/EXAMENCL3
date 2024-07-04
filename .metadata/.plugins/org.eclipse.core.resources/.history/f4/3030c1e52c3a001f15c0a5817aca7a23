@@ -1,0 +1,5 @@
+package com.example.demo.interfaceservice;
+
+public interface Repositorio_producto {
+
+}
